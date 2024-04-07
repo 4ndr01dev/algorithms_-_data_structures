@@ -12,8 +12,8 @@ const getFibonacciSeries = (n: number) => {
   return fibonacciSeries
 }
 
-console.log('Fibonacci de 5 ', getFibonacciSeries(5))
-console.log('Fibonacci de 7 ', getFibonacciSeries(7))
-console.log('Fibonacci de 13 ', getFibonacciSeries(13))
+console.log("Fibonacci de 5 ", getFibonacciSeries(5))
+console.log("Fibonacci de 7 ", getFibonacciSeries(7))
+console.log("Fibonacci de 13 ", getFibonacciSeries(13))
 
-// Algorithmic complexity O(n) -linear 
+// Algorithmic complexity O(n) -linear

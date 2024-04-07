@@ -1,13 +1,11 @@
 {
   "tasks": {
     "dev": "deno run --watch main.ts"
-  }
-  ,
-  
-    "fmt":{
-      "options": {
-        "semiColons": false
-      }
+  },
+
+  "fmt": {
+    "options": {
+      "semiColons": false
     }
-  
+  }
 }
